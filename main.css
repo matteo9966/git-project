@@ -1,0 +1,9 @@
+main {
+display:flex;
+}
+body{
+ position:relative;
+}
+.index {
+  height:100%;  
+}
